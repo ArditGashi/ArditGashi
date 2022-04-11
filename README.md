@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ardit</h1>
 <h3 align="center">A passionate web/app developer from Denmark interested in frontend and backend development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arditgashi&label=Profile%20views&color=0e75b6&style=flat" alt="arditgashi" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working for [Knowledge Gate Group](https://knowledgegategroup.com/)
@@ -43,9 +41,3 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/ardit-gashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardit-gashi" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arditgashi&show_icons=true&locale=en&layout=compact" alt="arditgashi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arditgashi&show_icons=true&locale=en" alt="arditgashi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arditgashi&" alt="arditgashi" /></p>
